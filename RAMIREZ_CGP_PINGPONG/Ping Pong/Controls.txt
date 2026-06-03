@@ -1,0 +1,52 @@
+ULTIMATE NEON PONG - CONTROLS GUIDE
+===================================
+
+MAIN MENU
+---------
+Mouse Left Click  : Select menu option
+Single Player     : Play against AI
+Two Players       : Local multiplayer
+Quit              : Exit the game
+
+PLAYER CONTROLS
+---------------
+Player 1 (Left Paddle)
+W                  : Move Up
+S                  : Move Down
+
+Player 2 (Right Paddle - Two Player Mode)
+UP ARROW           : Move Up
+DOWN ARROW         : Move Down
+
+SINGLE PLAYER MODE
+------------------
+W                  : Move Up
+S                  : Move Down
+Right Paddle       : Controlled by AI
+
+IN-GAME CONTROLS
+----------------
+ESC                : Pause Game
+M                  : Mute / Unmute Music
+
+PAUSE MENU
+----------
+ESC                : Resume Game
+Q                  : Return to Main Menu
+
+GAME OVER SCREEN
+----------------
+ENTER              : Return to Main Menu
+
+OBJECTIVE
+---------
+Score 10 points before your opponent.
+The ball speeds up slightly after paddle hits.
+First player to reach 10 points wins.
+
+TIPS
+----
+- Anticipate the ball's direction.
+- Stay near the center when possible.
+- In Single Player mode, use angles to beat the AI.
+- The longer a rally lasts, the faster the ball becomes.
